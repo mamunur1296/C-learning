@@ -1,1 +1,0 @@
-{"name":"Local: priblem-4","url":"d:\\Phitron-01-10-2023\\module-15.5\\priblem-4.c","tests":[{"id":1698559578449,"input":"5\n10 20 30 40 50","output":"10 20 30 40 100"},{"id":1698559608102,"input":"3\n1 2 3","output":"1 2 100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron-01-10-2023\\module-15.5\\priblem-4.c","group":"local","local":true}
