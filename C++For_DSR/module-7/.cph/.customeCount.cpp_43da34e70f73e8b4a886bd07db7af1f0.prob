@@ -1,0 +1,1 @@
+{"name":"Local: customeCount","url":"d:\\Phitron-01-10-2023\\C++For_DSR\\module-7\\customeCount.cpp","tests":[{"id":1700634516209,"input":"aaaabbccccddd","output":"ccccdddbba"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron-01-10-2023\\C++For_DSR\\module-7\\customeCount.cpp","group":"local","local":true}
