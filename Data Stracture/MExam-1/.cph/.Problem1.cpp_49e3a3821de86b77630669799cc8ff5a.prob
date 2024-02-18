@@ -1,0 +1,1 @@
+{"name":"Local: Problem1","url":"d:\\Phitron-01-10-2023\\Data Stracture\\MExam-1\\Problem1.cpp","tests":[{"id":1703858033455,"input":"4\neat tea\nmadam madam\nball all\nant tan","output":"YES\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron-01-10-2023\\Data Stracture\\MExam-1\\Problem1.cpp","group":"local","local":true}

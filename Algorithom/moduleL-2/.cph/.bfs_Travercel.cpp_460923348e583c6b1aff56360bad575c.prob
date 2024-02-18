@@ -1,0 +1,1 @@
+{"name":"Local: bfs_Travercel","url":"d:\\Phitron-01-10-2023\\Algorithom\\moduleL-2\\bfs_Travercel.cpp","tests":[{"id":1707970758539,"input":"5 6\n0 1\n1 2\n0 3\n1 4\n2 0\n3 4\n4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron-01-10-2023\\Algorithom\\moduleL-2\\bfs_Travercel.cpp","group":"local","local":true}

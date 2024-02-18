@@ -1,0 +1,1 @@
+{"name":"Local: matrix-to-edgeW","url":"d:\\Phitron-01-10-2023\\Algorithom\\module-13\\matrix-to-edgeW.cpp","tests":[{"id":1707631188498,"input":"4\n0 10 -1 -1\n-1 0 11 -1\n-1-1 0 12\n-1 13 12 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron-01-10-2023\\Algorithom\\module-13\\matrix-to-edgeW.cpp","group":"local","local":true}

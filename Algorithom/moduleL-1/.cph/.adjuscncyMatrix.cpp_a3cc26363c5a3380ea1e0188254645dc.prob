@@ -1,0 +1,1 @@
+{"name":"Local: adjuscncyMatrix","url":"d:\\Phitron-01-10-2023\\Algorithom\\moduleL-1\\adjuscncyMatrix.cpp","tests":[{"id":1707966103383,"input":"6 6\n0 1\n1 5\n0 4\n0 3\n3 4\n2 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron-01-10-2023\\Algorithom\\moduleL-1\\adjuscncyMatrix.cpp","group":"local","local":true}

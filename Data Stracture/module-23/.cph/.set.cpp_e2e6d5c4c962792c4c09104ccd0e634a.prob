@@ -1,0 +1,1 @@
+{"name":"Local: set","url":"d:\\Phitron-01-10-2023\\Data Stracture\\module-23\\set.cpp","tests":[{"id":1704909870547,"input":"10\n1 5 3 200 50 8 80 90 40 20 20","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron-01-10-2023\\Data Stracture\\module-23\\set.cpp","group":"local","local":true}
